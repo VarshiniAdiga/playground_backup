@@ -1,0 +1,28 @@
+sp-sidenav {
+    width: 95px;
+    border-color: var(--spectrum-alias-border-color-mid, #e1e1e1);
+    border-style: solid;
+    box-sizing: border-box;
+    height: auto;
+    min-height: 100%;
+}
+
+sp-sidenav-heading {
+    --spectrum-sidenav-heading-text-size: var(--spectrum-global-dimension-font-size-100);
+    --spectrum-sidenav-heading-padding-x: var(--spectrum-global-dimension-size-50);
+}
+
+sp-sidenav-item {
+    --spectrum-sidenav-item-text-size: var(--spectrum-global-dimension-font-size-125);
+    --spectrum-sidenav-item-padding-x: var(--spectrum-global-dimension-size-15);
+}
+
+sp-sidenav-item sp-sidenav-item {
+    --spectrum-sidenav-item-text-size: var(--spectrum-global-dimension-font-size-50);
+    --spectrum-sidenav-item-padding-x: var(--spectrum-global-dimension-size-50);
+}
+
+.settings {
+    --spectrum-sidenav-item-text-size: var(--spectrum-global-dimension-font-size-50);
+    --spectrum-sidenav-item-padding-x: var(--spectrum-global-dimension-size-50);
+}

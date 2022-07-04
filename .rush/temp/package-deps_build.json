@@ -1,0 +1,24 @@
+{
+  "files": {
+    "features/extensibility/playground/.webpack.config.js.swp": "6550abb87bd3553067e828a20122585cebd77735",
+    "features/extensibility/playground/package-lock.json": "d0bb6e42b96f2709145ef1270ea4e534fc87effd",
+    "features/extensibility/playground/package.json": "1befb4e15e06f235289ace54beb6c523dadfe32b",
+    "features/extensibility/playground/src/index.html": "687e122bcb62913b390a78ccb0bbee136f1bdc40",
+    "features/extensibility/playground/src/index.tsx": "3cddc2c39ea7eb96e2df92163ec52c53c5895af7",
+    "features/extensibility/playground/src/model/ExampleScript.ts": "93f06613844dbe0423278f6fd329fb34c9d75ca2",
+    "features/extensibility/playground/src/view/EditorView.css": "caa8954c54c67070113aac4ce3e2e881a77e67bb",
+    "features/extensibility/playground/src/view/EditorView.tsx": "5e0ee8cca33b678ca3408b7ff50f4946d7799c98",
+    "features/extensibility/playground/src/view/PlayGroundView.tsx": "089ed4d051b3f6cd058e0536ccf7d63a4bb2986e",
+    "features/extensibility/playground/src/view/SideBarView.css": "3868e6208c7e87cc884bf52b6cd74765e880f5a0",
+    "features/extensibility/playground/src/view/SideBarView.tsx": "15aaaf547f99cf01ae424a6b118774489c6e5f7d",
+    "features/extensibility/playground/src/viewModel/EditorViewModel.ts": "bce38c4da2ef56a4bd09eb83fdc48a9bbd116b69",
+    "features/extensibility/playground/src/viewModel/SideBarViewModel.ts": "032d26371783d73616cfbd270b8c6283c9d7d65d",
+    "features/extensibility/playground/tsconfig.json": "0d2eac515d5e39f7a2c3729430ae609105e1a394",
+    "features/extensibility/playground/types/TypeDefns.js": "f3304ed19ee64a774f76c1a22c4bb1e75a422f6b",
+    "features/extensibility/playground/types/iframe.d.ts": "1a3134beae60f39f554f5bb5882046ac36770cde",
+    "features/extensibility/playground/types/index.d.ts": "18eaf2f3acd15d9ff2d9411da4417ed827f8e857",
+    "features/extensibility/playground/webpack.config.js": "c9324d877e1c433919058fac829be7d9762fc201",
+    "features/extensibility/playground/.rush/temp/shrinkwrap-deps.json": "e904f9982e71515c96211986718eb39b2fbe61b5"
+  },
+  "arguments": "webpack --mode development "
+}
